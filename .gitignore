@@ -1,5 +1,6 @@
 /target
 /examples/target
 /examples/*/target
+/scripts/local
 Cargo.lock
 .DS_Store
